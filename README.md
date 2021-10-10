@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **everthing**
 
-- 👨‍💻 All of my projects are available at [facebook.com/agtastudios/](facebook.com/agtastudios/)
+- 👨‍💻 All of my projects are available at [https://www.facebook.com/agtastudios/](https://www.facebook.com/agtastudios/)
 
 - 📫 How to reach me **angeloabrita@gmail.com**
 
