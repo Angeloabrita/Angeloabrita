@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angelo Abrita</h1>
-<h3 align="center">Full-stack (full-stackoverflow) developer Graduated in Curso em video phd at Khan Academy and master's degree at Udemy well, i'm indie app and game developer</h3>
+<h3 align="center">Full-stack (full-stackoverflow) 😁 ,software engineering student(2022) and also i'm indie app and game developer since 2015</h3>
 
 - 🌱 I’m currently learning **everthing**
 
